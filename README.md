@@ -1,2 +1,2 @@
 # hello-world
-test repository
+test repository is for my understanding github.
